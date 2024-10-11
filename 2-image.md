@@ -4,7 +4,7 @@ Es un archivo único que contiene todos los programas, librerías, dependencias 
 
 
 ## ¿Cuál es la relación entre una imagen y un contenedor? 
-# COMPLETAR 
+La relación que se encuentra entre imagen y contenedor es que la imagen se puede definir como algo que funciona como una platilla en la que se estipulan diferentes parámetros de ejecución que no pueden ser modificados. Por otro lado, el contenedor es una ejecución de una imagen con la posibilidad que este se puede modificar conforme se va ejecutando.
 
 ![Imagen y contenedores](img/imagenContenedores.JPG)
 ## Comandos para imágenes
